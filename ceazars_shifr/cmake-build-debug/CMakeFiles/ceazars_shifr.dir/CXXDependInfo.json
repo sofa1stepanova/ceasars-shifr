@@ -1,0 +1,27 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Sofya/Documents/ceazars_shifr/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/Sofya/Documents/ceazars_shifr",
+	"dir-top-bld" : "C:/Users/Sofya/Documents/ceazars_shifr/cmake-build-debug",
+	"dir-top-src" : "C:/Users/Sofya/Documents/ceazars_shifr",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Sofya/Documents/ceazars_shifr/cmake-build-debug/CMakeFiles/ceazars_shifr.dir",
+	"sources" : 
+	{
+		"CMakeFiles/ceazars_shifr.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Sofya/Documents/ceazars_shifr/main.cpp"
+		}
+	}
+}

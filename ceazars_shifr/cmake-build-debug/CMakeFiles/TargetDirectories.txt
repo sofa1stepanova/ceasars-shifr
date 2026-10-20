@@ -1,0 +1,3 @@
+C:/Users/Sofya/Documents/ceazars_shifr/cmake-build-debug/CMakeFiles/ceazars_shifr.dir
+C:/Users/Sofya/Documents/ceazars_shifr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sofya/Documents/ceazars_shifr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
